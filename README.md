@@ -14,4 +14,4 @@ code✓
 email✓                                                   passoword✓
 usuname✓
 name✓
-namesobre✓
+namesobre✓                     github✓
